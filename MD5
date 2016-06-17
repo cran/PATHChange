@@ -1,0 +1,17 @@
+1612ae6ecac27397210200dde75f5591 *DESCRIPTION
+8ce084e2eb0b4951a894c83df2a5207b *NAMESPACE
+ef4799692c0f7a944a6fa044036b0a41 *R/PATHChange.R
+d56fcf0731627f8c9038402ab4fa2d1e *R/PATHChangeDat.R
+8a3b69be1676a7523098184e68a7f7e3 *R/PATHChangeList.R
+6821da2c1393aa543b3cd4d0917173b7 *R/PATHChangeVenn.R
+e496845fb04034304757c6a5b675a2b9 *build/partial.rdb
+54b6a038898300aeebcc4c7d483bc32e *inst/extdata/BigPathways.txt
+4f4783ac056f101cee7eced9d52c8354 *inst/extdata/MeanData.rds
+2b0d339389a610e3a11818eb0d84111f *inst/extdata/eDat.csv
+b24840680fad495a34c21dc711de7830 *inst/extdata/genes.txt
+b0bf3f7e1e97bad1e31e874840286dd7 *inst/extdata/path.rds
+69b63d6c9ca0c6e8c08affe38538e74e *man/PATHChange-package.Rd
+69683bc6856c23ca394462d3667132b8 *man/PATHChange.Rd
+8ac12ec16bf7021b7beb223beaa18eae *man/PATHChangeDat.Rd
+0cf93b059f5be4334b59d32f173c9e48 *man/PATHChangeList.Rd
+4d6562b179b5aad0d1764f12cfb77ea4 *man/PATHChangeVenn.Rd

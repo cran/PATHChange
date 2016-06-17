@@ -1,0 +1,26 @@
+import(stringr,
+       rlist,
+       VennDiagram)
+importFrom(grDevices, 
+           dev.off, 
+           pdf)
+importFrom(stats,
+           wilcox.test,
+           fisher.test,
+           p.adjust,
+           aggregate)
+importFrom(utils,
+           write.csv,
+           read.csv,
+           read.table,
+           download.file,
+           count.fields)
+importFrom(grid,
+           grid.newpage,
+           grid.draw)
+export(PATHChangeDat,
+	PATHChangeList,
+	PATHChange,
+	PATHChangeVenn)
+exportClasses("eDat", "DataSet", "NumbSample", "Genes", "HistComp", "hc", "writeRDS", "writeCSV", "writePDF","destDIR", "filePathway", "path", "MeanData", "p.value", "p")
+
